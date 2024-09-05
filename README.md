@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ativa-ECavalieri
+- 👋 Hi, I’m Eduardo Cavalieri
 - 👀 I’m interested in Python 
 - 🌱 I’m currently learning Flask, PostgreSQL and Javascript
 - 💞️ I’m looking to collaborate on Desk Projects
